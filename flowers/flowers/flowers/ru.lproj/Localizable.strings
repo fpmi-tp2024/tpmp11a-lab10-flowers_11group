@@ -1,0 +1,63 @@
+"Rose" = "Роза";
+"A classic garden plant known for its fragrant flowers and thorny stems." = "Классический садовый цветок, известный своими ароматными цветами и колючими стеблями.";
+"garden" = "сад";
+"height 3'-6'" = "высота 90-180 см";
+"upto 60%" = "до 60%";
+"twice a week" = "дважды в неделю";
+
+"Orchid" = "Орхидея";
+"Exotic plants with beautiful and delicate flowers, popular as indoor plants." = "Экзотические растения с красивыми и нежными цветками, популярные как комнатные растения.";
+"indirect sunlight" = "рассеянный свет";
+"height 12''-24''" = "высота 30-60 см";
+"60%-80%" = "60%-80%";
+"once a week" = "раз в неделю";
+
+"Cactus" = "Кактус";
+"Low-maintenance desert plants that store water in their thick stems." = "Неприхотливые пустынные растения, которые накапливают воду в своих толстых стеблях.";
+"sunny spot" = "солнечное место";
+"height 6''-12''" = "высота 15-30 см";
+"10%-30%" = "10%-30%";
+"once a month" = "раз в месяц";
+
+"Lavender" = "Лаванда";
+"Aromatic herb known for its fragrant purple flowers and calming scent." = "Ароматная трава, известная своими душистыми фиолетовыми цветами и успокаивающим ароматом.";
+"full sun" = "полное солнце";
+"height 1'-3'" = "высота 30-90 см";
+"40%-60%" = "40%-60%";
+"once a week" = "раз в неделю";
+
+"Bonsai" = "Бонсай";
+"Miniature trees cultivated in small pots, requiring careful pruning and care." = "Миниатюрные деревья, выращиваемые в маленьких горшках, требующие тщательной обрезки и ухода.";
+"bright, indirect light" = "яркий, рассеянный свет";
+"varies depending on species" = "зависит от вида";
+"50%-70%" = "50%-70%";
+"every 2-3 days" = "каждые 2-3 дня";
+
+"Lily" = "Лилия";
+"Elegant flowers known for their large, fragrant blooms, often used in bouquets." = "Элегантные цветы с крупными ароматными цветками, часто используемые в букетах.";
+"partial shade" = "полутень";
+"height 2'-5'" = "высота 60-150 см";
+"50%-70%" = "50%-70%";
+"twice a week" = "дважды в неделю";
+
+"Location" = "Местоположение";
+"Water" = "Полив";
+"Humidity" = "Влажность";
+"Size" = "Размер";
+"Confirm" = "Подтвердить";
+"Care guide" = "Руководство по уходу";
+"sign in" = "Войти";
+"sign up" = "Зарегистрироваться";
+"My plants" = "Мои растения";
+"Yakimovich plants" = "Растения Якимовича";
+"Incorrect data!" = "Неверные данные!";
+"Registrate succesfully!" = "Успешная регистрация!";
+"No such user!" = "Такой пользователь не найден!";
+"Incorrect login or password!" = "Неверный логин или пароль!";
+"view map" = "посмотреть карту";
+"my plants" = "мои растения";
+"add plant" = "добавить растение";
+"weather" = "погода";
+"repeat password" = "повторите пароль";
+"Login unavailable!" = "Вход недоступен!";
+"Check progress!" = "Проверьте прогресс!";

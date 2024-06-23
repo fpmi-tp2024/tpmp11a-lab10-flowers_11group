@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>plantInfo</key>
+	<dict>
+		<key>Rose</key>
+		<dict>
+			<key>description</key>
+			<string>A classic garden plant known for its fragrant flowers and thorny stems.</string>
+			<key>location</key>
+			<string>garden</string>
+			<key>size</key>
+			<string>height 3&apos;-6&apos;</string>
+			<key>humidity</key>
+			<string>40%-60%</string>
+			<key>water</key>
+			<string>twice a week</string>
+			<key>image</key>
+			<string>rose</string>
+		</dict>
+		<key>Orchid</key>
+		<dict>
+			<key>description</key>
+			<string>Exotic plants with beautiful and delicate flowers, popular as indoor plants.</string>
+			<key>location</key>
+			<string>indirect sunlight</string>
+			<key>size</key>
+			<string>height 12&apos;&apos;-24&apos;&apos;</string>
+			<key>humidity</key>
+			<string>60%-80%</string>
+			<key>water</key>
+			<string>once a week</string>
+			<key>image</key>
+			<string>orchid</string>
+		</dict>
+		<key>Cactus</key>
+		<dict>
+			<key>description</key>
+			<string>Low-maintenance desert plants that store water in their thick stems.</string>
+			<key>location</key>
+			<string>sunny spot</string>
+			<key>size</key>
+			<string>height 6&apos;&apos;-12&apos;&apos;</string>
+			<key>humidity</key>
+			<string>10%-30%</string>
+			<key>water</key>
+			<string>once a month</string>
+			<key>image</key>
+			<string>cactus</string>
+		</dict>
+		<key>Lavender</key>
+		<dict>
+			<key>description</key>
+			<string>Aromatic herb known for its fragrant purple flowers and calming scent.</string>
+			<key>location</key>
+			<string>full sun</string>
+			<key>size</key>
+			<string>height 1&apos;-3&apos;</string>
+			<key>humidity</key>
+			<string>40%-60%</string>
+			<key>water</key>
+			<string>once a week</string>
+			<key>image</key>
+			<string>lavender</string>
+		</dict>
+		<key>Bonsai</key>
+		<dict>
+			<key>description</key>
+			<string>Miniature trees cultivated in small pots, requiring careful pruning and care.</string>
+			<key>location</key>
+			<string>bright, indirect light</string>
+			<key>size</key>
+			<string>varies depending on species</string>
+			<key>humidity</key>
+			<string>50%-70%</string>
+			<key>water</key>
+			<string>every 2-3 days</string>
+			<key>image</key>
+			<string>bonsai</string>
+		</dict>
+		<key>Lily</key>
+		<dict>
+			<key>description</key>
+			<string>Elegant plants known for their large, fragrant flowers, often used in bouquets.</string>
+			<key>location</key>
+			<string>partial shade</string>
+			<key>size</key>
+			<string>height 2&apos;-5&apos;</string>
+			<key>humidity</key>
+			<string>50%-70%</string>
+			<key>water</key>
+			<string>twice a week</string>
+			<key>image</key>
+			<string>lily</string>
+		</dict>
+	</dict>
+	<key>plants</key>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>rose</string>
+			<key>name</key>
+			<string>Rose</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>orchid</string>
+			<key>name</key>
+			<string>Orchid</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>cactus</string>
+			<key>name</key>
+			<string>Cactus</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>lavender</string>
+			<key>name</key>
+			<string>Lavender</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>bonsai</string>
+			<key>name</key>
+			<string>Bonsai</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>lily</string>
+			<key>name</key>
+			<string>Lily</string>
+		</dict>
+	</array>
+</dict>
+</plist>

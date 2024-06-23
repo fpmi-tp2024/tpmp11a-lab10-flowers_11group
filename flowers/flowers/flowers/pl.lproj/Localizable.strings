@@ -1,0 +1,63 @@
+"Rose" = "Róża";
+"A classic garden plant known for its fragrant flowers and thorny stems." = "Klasyczna roślina ogrodowa znana ze swoich pachnących kwiatów i kolczastych łodyg.";
+"garden" = "ogród";
+"height 3'-6'" = "wysokość 90-180 cm";
+"upto 60%" = "do 60%";
+"twice a week" = "dwa razy w tygodniu";
+
+"Orchid" = "Storczyk";
+"Exotic plants with beautiful and delicate flowers, popular as indoor plants." = "Egzotyczne rośliny o pięknych i delikatnych kwiatach, popularne jako rośliny doniczkowe.";
+"indirect sunlight" = "rozproszone światło";
+"height 12''-24''" = "wysokość 30-60 cm";
+"60%-80%" = "60%-80%";
+"once a week" = "raz w tygodniu";
+
+"Cactus" = "Kaktus";
+"Low-maintenance desert plants that store water in their thick stems." = "Łatwe w utrzymaniu rośliny pustynne, które magazynują wodę w swoich grubych łodygach.";
+"sunny spot" = "słoneczne miejsce";
+"height 6''-12''" = "wysokość 15-30 cm";
+"10%-30%" = "10%-30%";
+"once a month" = "raz w miesiącu";
+
+"Lavender" = "Lawenda";
+"Aromatic herb known for its fragrant purple flowers and calming scent." = "Aromatyczne zioło znane ze swoich pachnących fioletowych kwiatów i uspokajającego zapachu.";
+"full sun" = "pełne słońce";
+"height 1'-3'" = "wysokość 30-90 cm";
+"40%-60%" = "40%-60%";
+"once a week" = "raz w tygodniu";
+
+"Bonsai" = "Bonsai";
+"Miniature trees cultivated in small pots, requiring careful pruning and care." = "Miniaturowe drzewka uprawiane w małych doniczkach, wymagające starannego przycinania i pielęgnacji.";
+"bright, indirect light" = "jasne, rozproszone światło";
+"varies depending on species" = "zależy od gatunku";
+"50%-70%" = "50%-70%";
+"every 2-3 days" = "co 2-3 dni";
+
+"Lily" = "Lilia";
+"Elegant flowers known for their large, fragrant blooms, often used in bouquets." = "Eleganckie kwiaty znane ze swoich dużych, pachnących kwiatostanów, często używane w bukietach.";
+"partial shade" = "półcień";
+"height 2'-5'" = "wysokość 60-150 cm";
+"50%-70%" = "50%-70%";
+"twice a week" = "dwa razy w tygodniu";
+
+"Location" = "Lokalizacja";
+"Water" = "Woda";
+"Humidity" = "Wilgotność";
+"Size" = "Rozmiar";
+"Confirm" = "Potwierdź";
+"Care guide" = "Przewodnik pielęgnacji";
+"sign in" = "Zaloguj się";
+"sign up" = "Zarejestruj się";
+"My plants" = "Moje rośliny";
+"Yakimovich plants" = "Rośliny Yakimovich";
+"Incorrect data!" = "Nieprawidłowe dane!";
+"Registrate succesfully!" = "Rejestracja zakończona sukcesem!";
+"No such user!" = "Nie ma takiego użytkownika!";
+"Incorrect login or password!" = "Nieprawidłowy login lub hasło!";
+"view map" = "zobacz mapę";
+"my plants" = "moje rośliny";
+"add plant" = "dodaj roślinę";
+"weather" = "pogoda";
+"repeat password" = "powtórz hasło";
+"Login unavailable!" = "Logowanie niedostępne!";
+"Check progress!" = "Sprawdź postęp!";

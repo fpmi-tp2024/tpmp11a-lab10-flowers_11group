@@ -1,0 +1,63 @@
+"Rose" = "Rose";
+"A classic garden plant known for its fragrant flowers and thorny stems." = "A classic garden plant known for its fragrant flowers and thorny stems.";
+"garden" = "garden";
+"height 3'-6'" = "height 3'-6'";
+"upto 60%" = "upto 60%";
+"twice a week" = "twice a week";
+
+"Orchid" = "Orchid";
+"Exotic plants with beautiful and delicate flowers, popular as indoor plants." = "Exotic plants with beautiful and delicate flowers, popular as indoor plants.";
+"indirect sunlight" = "indirect sunlight";
+"height 12''-24''" = "height 12''-24''";
+"60%-80%" = "60%-80%";
+"once a week" = "once a week";
+
+"Cactus" = "Cactus";
+"Low-maintenance desert plants that store water in their thick stems." = "Low-maintenance desert plants that store water in their thick stems.";
+"sunny spot" = "sunny spot";
+"height 6''-12''" = "height 6''-12''";
+"10%-30%" = "10%-30%";
+"once a month" = "once a month";
+
+"Lavender" = "Lavender";
+"Aromatic herb known for its fragrant purple flowers and calming scent." = "Aromatic herb known for its fragrant purple flowers and calming scent.";
+"full sun" = "full sun";
+"height 1'-3'" = "height 1'-3'";
+"40%-60%" = "40%-60%";
+"once a week" = "once a week";
+
+"Bonsai" = "Bonsai";
+"Miniature trees cultivated in small pots, requiring careful pruning and care." = "Miniature trees cultivated in small pots, requiring careful pruning and care.";
+"bright, indirect light" = "bright, indirect light";
+"varies depending on species" = "varies depending on species";
+"50%-70%" = "50%-70%";
+"every 2-3 days" = "every 2-3 days";
+
+"Lily" = "Lily";
+"Elegant flowers known for their large, fragrant blooms, often used in bouquets." = "Elegant flowers known for their large, fragrant blooms, often used in bouquets.";
+"partial shade" = "partial shade";
+"height 2'-5'" = "height 2'-5'";
+"50%-70%" = "50%-70%";
+"twice a week" = "twice a week";
+
+"Location" = "Location";
+"Water" = "Water";
+"Humidity" = "Humidity";
+"Size" = "Size";
+"Confirm" = "Confirm";
+"Care guide" = "Care guide";
+"sign in" = "sign in";
+"sign up" = "sign up";
+"My plants" = "My plants";
+"Yakimovich plants" = "Yakimovich plants";
+"Incorrect data!" = "Incorrect data!";
+"Registrate succesfully!" = "Registrate succesfully!";
+"No such user!" = "No such user!";
+"Incorrect login or password!" = "Incorrect login or password!";
+"view map" = "view map";
+"my plants" = "my plants";
+"add plant" = "add plant";
+"weather" = "weather";
+"repeat password" = "repeat password";
+"Login unavailable!" = "Login unavailable!";
+"Check progress!" = "Check progress!";
