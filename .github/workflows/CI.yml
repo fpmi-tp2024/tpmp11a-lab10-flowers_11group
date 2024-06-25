@@ -15,6 +15,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Set Default Scheme
         run: |
+          cd ./flowers
           scheme_list=$(xcodebuild -list -json | tr -d "\n")
           default=$(echo $scheme_list | ruby -e "require 'json'; puts JSON.parse(STDIN.gets)['project']['targets'][0]")
           echo $default | cat >default
@@ -24,6 +25,7 @@ jobs:
           scheme: ${{ 'default' }}
           platform: ${{ 'iOS Simulator' }}
         run: |
+          cd ./flowers
           device=`xcrun xctrace list devices 2>&1 | grep -oE 'iPhone.*?[^\(]+' | head -1 | awk '{$1=$1;print}' | sed -e "s/ Simulator$//"`
           echo "Using device: $device"
           if [ $scheme = default ]; then scheme=$(cat default); fi
@@ -41,6 +43,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Set Default Scheme
         run: |
+          cd ./flowers
           scheme_list=$(xcodebuild -list -json | tr -d "\n")
           default=$(echo $scheme_list | ruby -e "require 'json'; puts JSON.parse(STDIN.gets)['project']['targets'][0]")
           echo $default | cat >default
@@ -50,6 +53,7 @@ jobs:
           scheme: ${{ 'default' }}
           platform: ${{ 'iOS Simulator' }}
         run: |
+          cd ./flowers
           device=`xcrun xctrace list devices 2>&1 | grep -oE 'iPhone.*?[^\(]+' | head -1 | awk '{$1=$1;print}' | sed -e "s/ Simulator$//"`
           echo "Using device: $device"
           if [ $scheme = default ]; then scheme=$(cat default); fi
