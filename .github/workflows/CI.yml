@@ -12,10 +12,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Install Homebrew
+        run: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+      - name: Update Homebrew
+        run: brew update
       - name: Install SwiftLint
         run: brew install swiftlint
       - name: Run SwiftLint
-        run: swiftlint
+        run: swiftlint --strict
 
   test:
     runs-on: macos-12
